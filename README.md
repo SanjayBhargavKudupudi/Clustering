@@ -7,12 +7,11 @@ This repository contains a collection of implementation examples, utilities, and
 
 ## Contents
 
-ImageClustering: Implementations and notebooks for clustering image data. [Colab(https://colab.research.google.com/github/SanjayBhargavKudupudi/Clustering/blob/main/Image/Image_Embedding.ipynb)
+ImageClustering: [Colab(https://colab.research.google.com/github/SanjayBhargavKudupudi/Clustering/blob/main/Image/Image_Embedding.ipynb)
 
 Audio Clustering : [colab](https://colab.research.google.com/github/SanjayBhargavKudupudi/Clustering/blob/main/audio.ipynb)
 
-TextClustering: Scripts and examples for clustering text documents.
-[colab](https://github.com/SanjayBhargavKudupudi/Clustering/blob/main/text_embeddings/text_embeddings.ipynb#:~:text=text_embeddings-,text_embeddings,-.ipynb)
+TextClustering: [colab](https://github.com/SanjayBhargavKudupudi/Clustering/blob/main/text_embeddings/text_embeddings.ipynb#:~:text=text_embeddings-,text_embeddings,-.ipynb)
 
 DBscan : [colab](https://colab.research.google.com/github/SanjayBhargavKudupudi/Clustering/blob/main/Image/Image_Embedding.ipynb)
 
