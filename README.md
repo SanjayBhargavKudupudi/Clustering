@@ -7,7 +7,7 @@ This repository contains a collection of implementation examples, utilities, and
 
 ## Contents
 
-ImageClustering: [Colab(https://colab.research.google.com/github/SanjayBhargavKudupudi/Clustering/blob/main/Image/Image_Embedding.ipynb)
+ImageClustering: [Colab](https://colab.research.google.com/github/SanjayBhargavKudupudi/Clustering/blob/main/Image/Image_Embedding.ipynb)
 
 Audio Clustering : [colab](https://colab.research.google.com/github/SanjayBhargavKudupudi/Clustering/blob/main/audio.ipynb)
 
